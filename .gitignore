@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Dir
+Model_zips/
+regression_model/
+classification_model/
